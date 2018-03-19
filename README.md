@@ -3,7 +3,7 @@ just loader
 
 ```javascript
 
-var loding = new Loader([radius|option]);
+var loading = new Loader([radius|option]);
 //new Loader(50);
 //new Loader({radius: 30, color: "orange", borderWidth: 5});
 
